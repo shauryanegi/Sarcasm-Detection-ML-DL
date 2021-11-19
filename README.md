@@ -5,7 +5,7 @@ I have made two notebooks.
 The first notebook consists of various Machine Learning models tuned in a pipeline.
 The second notebook consists of a BiDirectional LSTM and a transfer learning model where I used the Universal Sentence Encoder for Embeddings.
 
-CREDITS: https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
+CREDITS AND DATASET: https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
 
 RESEARCH PAPER: https://arxiv.org/pdf/1908.07414.pdf
 
